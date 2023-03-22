@@ -1,5 +1,0 @@
-# ignore ALL files in ANY directory named node
-node_modules/
-.Procfile
-.env
-.vercel
